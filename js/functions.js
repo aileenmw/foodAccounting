@@ -99,6 +99,7 @@
             } else {
                 url = "setXmlForNextInvoice.php";
             }
+            
             $.ajax({
                 type: 'post',
                 url: 'ajax/' + url,
