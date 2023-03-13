@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Regninger Betalingsdato="2023-03-30">
+  <Hus Nr="1">
+    <Navn>Rudy</Navn>
+    <Efternavn>Madsen</Efternavn>
+    <Udestående>462.00</Udestående>
+    <Indbetalt>520</Indbetalt>
+    <Saldo>-58.00</Saldo>
+    <Voksne>4</Voksne>
+    <Pubber>5</Pubber>
+    <Børn/>
+    <Spist>175</Spist>
+    <Udlæg/>
+    <Regning>157.00</Regning>
+  </Hus>
+  <Hus Nr="3">
+    <Navn>Benny</Navn>
+    <Efternavn>Kling Osbæck</Efternavn>
+    <Udestående>485.00</Udestående>
+    <Indbetalt/>
+    <Saldo>485.00</Saldo>
+    <Voksne>2</Voksne>
+    <Pubber/>
+    <Børn>2</Børn>
+    <Spist>70</Spist>
+    <Udlæg>140</Udlæg>
+    <Regning>455.00</Regning>
+  </Hus>
+  <Hus Nr="5">
+    <Navn>Morten og Catrine</Navn>
+    <Efternavn>Hansen</Efternavn>
+    <Udestående>510.00</Udestående>
+    <Indbetalt/>
+    <Saldo>510.00</Saldo>
+    <Voksne/>
+    <Pubber>4</Pubber>
+    <Børn/>
+    <Spist>60</Spist>
+    <Udlæg/>
+    <Regning>610.00</Regning>
+  </Hus>
+  <Hus Nr="7">
+    <Navn>Charlotte</Navn>
+    <Efternavn>Vang</Efternavn>
+    <Udestående>205.00</Udestående>
+    <Indbetalt/>
+    <Saldo>205.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>245.00</Regning>
+  </Hus>
+  <Hus Nr="9">
+    <Navn>Maria</Navn>
+    <Efternavn>Greve</Efternavn>
+    <Udestående>1070.00</Udestående>
+    <Indbetalt/>
+    <Saldo>1070.00</Saldo>
+    <Voksne>3</Voksne>
+    <Pubber/>
+    <Børn>4</Børn>
+    <Spist>115</Spist>
+    <Udlæg/>
+    <Regning>1225.00</Regning>
+  </Hus>
+  <Hus Nr="11">
+    <Navn>Aileen</Navn>
+    <Efternavn>Westphal</Efternavn>
+    <Udestående>680.00</Udestående>
+    <Indbetalt/>
+    <Saldo>680.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>720.00</Regning>
+  </Hus>
+  <Hus Nr="13">
+    <Navn>Jens og Anita</Navn>
+    <Efternavn>Kofoed / Lund</Efternavn>
+    <Udestående>44.69</Udestående>
+    <Indbetalt>200</Indbetalt>
+    <Saldo>-155.31</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>-115.31</Regning>
+  </Hus>
+  <Hus Nr="15">
+    <Navn>Sofie og Jens</Navn>
+    <Efternavn>Jepsen</Efternavn>
+    <Udestående>762.31</Udestående>
+    <Indbetalt/>
+    <Saldo>762.31</Saldo>
+    <Voksne/>
+    <Pubber>3</Pubber>
+    <Børn/>
+    <Spist>45</Spist>
+    <Udlæg/>
+    <Regning>847.31</Regning>
+  </Hus>
+  <Hus Nr="17">
+    <Navn>Torsten</Navn>
+    <Efternavn>Ringgaard</Efternavn>
+    <Udestående>225.00</Udestående>
+    <Indbetalt/>
+    <Saldo>225.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>265.00</Regning>
+  </Hus>
+  <Hus Nr="19">
+    <Navn>Tina</Navn>
+    <Efternavn>Jepsen</Efternavn>
+    <Udestående>545.00</Udestående>
+    <Indbetalt/>
+    <Saldo>545.00</Saldo>
+    <Voksne>7</Voksne>
+    <Pubber/>
+    <Børn/>
+    <Spist>175</Spist>
+    <Udlæg/>
+    <Regning>760.00</Regning>
+  </Hus>
+  <Hus Nr="21">
+    <Navn>Pernille</Navn>
+    <Efternavn>Esborg</Efternavn>
+    <Udestående>465.00</Udestående>
+    <Indbetalt/>
+    <Saldo>465.00</Saldo>
+    <Voksne/>
+    <Pubber>4</Pubber>
+    <Børn/>
+    <Spist>60</Spist>
+    <Udlæg>50</Udlæg>
+    <Regning>515.00</Regning>
+  </Hus>
+  <Hus Nr="23">
+    <Navn>Helle</Navn>
+    <Efternavn>Koch-Christensen</Efternavn>
+    <Udestående>565.00</Udestående>
+    <Indbetalt>120</Indbetalt>
+    <Saldo>445.00</Saldo>
+    <Voksne/>
+    <Pubber>1</Pubber>
+    <Børn/>
+    <Spist>15</Spist>
+    <Udlæg/>
+    <Regning>500.00</Regning>
+  </Hus>
+  <Hus Nr="25">
+    <Navn>Anne-Mette</Navn>
+    <Efternavn>Haubro Hestkjær</Efternavn>
+    <Udestående>457.00</Udestående>
+    <Indbetalt/>
+    <Saldo>457.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>497.00</Regning>
+  </Hus>
+  <Hus Nr="27">
+    <Navn>Katia og Frederik</Navn>
+    <Efternavn>Damsgaard Højsager</Efternavn>
+    <Udestående>-378.55</Udestående>
+    <Indbetalt/>
+    <Saldo>-378.55</Saldo>
+    <Voksne>5</Voksne>
+    <Pubber/>
+    <Børn/>
+    <Spist>125</Spist>
+    <Udlæg>450</Udlæg>
+    <Regning>-663.55</Regning>
+  </Hus>
+  <Hus Nr="29">
+    <Navn>Henriette</Navn>
+    <Efternavn>Iversen Andersen</Efternavn>
+    <Udestående>265.00</Udestående>
+    <Indbetalt/>
+    <Saldo>265.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>305.00</Regning>
+  </Hus>
+  <Hus Nr="31">
+    <Navn>Maria</Navn>
+    <Efternavn>Mejlgaard</Efternavn>
+    <Udestående>650.00</Udestående>
+    <Indbetalt/>
+    <Saldo>650.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>690.00</Regning>
+  </Hus>
+  <Hus Nr="33">
+    <Navn>Anne-Grete</Navn>
+    <Efternavn>Borger Pedersen</Efternavn>
+    <Udestående>590.00</Udestående>
+    <Indbetalt/>
+    <Saldo>590.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>630.00</Regning>
+  </Hus>
+  <Hus Nr="35">
+    <Navn>Lars</Navn>
+    <Efternavn>Hansen</Efternavn>
+    <Udestående>565.00</Udestående>
+    <Indbetalt>20</Indbetalt>
+    <Saldo>545.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>585.00</Regning>
+  </Hus>
+  <Hus Nr="37">
+    <Navn>Rie</Navn>
+    <Efternavn>Vinterlys</Efternavn>
+    <Udestående>440.00</Udestående>
+    <Indbetalt/>
+    <Saldo>440.00</Saldo>
+    <Voksne/>
+    <Pubber/>
+    <Børn/>
+    <Spist>0</Spist>
+    <Udlæg/>
+    <Regning>480.00</Regning>
+  </Hus>
+  <Hus Nr="39">
+    <Navn>Gertrud</Navn>
+    <Efternavn>Donno</Efternavn>
+    <Udestående>79.15</Udestående>
+    <Indbetalt>50</Indbetalt>
+    <Saldo>29.15</Saldo>
+    <Voksne>5</Voksne>
+    <Pubber>2</Pubber>
+    <Børn>1</Børn>
+    <Spist>165</Spist>
+    <Udlæg>20</Udlæg>
+    <Regning>214.15</Regning>
+  </Hus>
+</Regninger>

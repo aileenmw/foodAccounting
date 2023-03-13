@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Fælleshusregning Betalingsdato="12/04/2023">
+  <Udestående>427.08</Udestående>
+  <Indbetalt>0</Indbetalt>
+  <Udlæg Total="667.00">
+    <Post>
+      <Dato>2023-02-28</Dato>
+      <Hus>23</Hus>
+      <Indkøbssted>Rema</Indkøbssted>
+      <Beløb>456</Beløb>
+    </Post>
+    <Post>
+      <Dato>2023-02-15</Dato>
+      <Hus>11</Hus>
+      <Indkøbssted>Aldi</Indkøbssted>
+      <Beløb>211</Beløb>
+    </Post>
+  </Udlæg>
+  <Regning>1094.08</Regning>
+</Fælleshusregning>

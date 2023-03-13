@@ -1,0 +1,570 @@
+/* CUSTOM STYLING */
+.h {
+    text-align: center;
+    font-weight: 700;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.minH24 {
+    min-height: 24px;
+}
+.mar15 {
+    margin: 10px;
+}
+.floatRight {
+    float: right;
+    margin-left: 15px;
+}
+.font20 {
+    font-size: 20px;
+}
+.subText {
+    font-size: 13px;
+    color: #333;
+}
+.greyBg {
+    background-color: #eef;
+}
+.bottomline {
+    border-bottom: solid 1px #aaa;
+    padding-bottom: 20px;
+}
+.rowLine {
+    border-bottom: 1px solid #444;
+}
+.smallTextParent {
+    position: relative;
+}
+.smallText {
+    font-size: 10px;
+    color: #333;
+    font-weight: 400;
+    position: absolute;
+    bottom: 0;
+}
+.center{
+    width: 100%;
+    text-align: center;
+}
+.left {
+    text-align: left;
+    padding-left: 70px;
+}
+.btnWrapper {
+    width: 100%;
+    text-align: center;
+}
+.space {
+    width: 100%;
+    height: 80px;
+}
+input{
+    border: #ccc solid 1px;
+    border-radius: 3px;
+  }
+.active {
+    background-color:royalblue;
+    color: #fff;
+}
+.red-bg {
+    background-color: "red";
+}
+.pointer:hover{
+    cursor: pointer;
+}
+/* hover texts*/
+.hovertexttop {
+    position: relative;
+}
+.hovertexttop:before, .hovertext:before, .hovertexCheckbox:before {
+    content: attr(data-hover);
+    visibility: hidden;
+    opacity: 0;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 30px;
+    transition: opacity 1s ease-in-out;
+    position: absolute;
+    z-index: 1;
+  }
+  .hovertexttop:before {
+    min-width: 200px;
+    right: -30px;
+    top: 30px;
+  }
+  .hovertexttop:hover:before {
+    opacity: 1;
+    visibility: visible;
+    background-color: #007bff;
+  }
+
+.hovertext {
+    position: relative;
+  }
+
+  .hovertext:before {
+    min-width: 300px;
+    left: 0;
+    bottom: 30px;
+  }
+
+  .hovertext:hover:before {
+    opacity: 1;
+    visibility: visible;
+    background-color: #007bff;
+  }
+
+/* hovertexCheckbox */
+
+.hovertexCheckbox {
+    position: relative;
+  }
+
+  .hovertexCheckbox:before {
+    min-width: 300px;
+    left: 17px;
+    bottom: 25px;
+  }
+
+  .hovertexCheckbox:hover:before {
+    opacity: 1;
+    visibility: visible;
+    background-color: #007bff;
+    border-radius: 20px 20px 20px 0;
+  }
+
+  @keyframes bgColor {
+    0% {
+      background-color: rgba(66, 133, 244, .3);
+    }
+    50% {
+      background-color: rgba(66, 133, 244, .6);
+    }
+    100% {
+      background-color: rgb(66, 133, 244);
+    }
+  }
+
+  @keyframes fontColor {
+    0% {
+      color: rgba(66, 133, 244, .3);
+    }
+    50% {
+      color: rgba(66, 133, 244, .6);
+    }
+    100% {
+      color: rgb(66, 133, 244);
+    }
+  }
+.spinner-border {
+    display: none;
+    margin: 40% auto;
+    height: 30%;
+    width: 30%;
+}
+
+.spinnerWrapper {
+    display: none; 
+    position: fixed;
+    width: 150px;
+    height: 150px;    
+    top: 50%;
+    left: 50%;
+    margin-top: -75px;
+    margin-left: -75px; 
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgba(255,255,255, .7);
+    /* animation-name: bgColor;
+    animation-duration: 2s;
+    animation-iteration-count: infinite; */
+}
+
+/* INDIVIDUAL STYLING */
+/* NAV */
+.nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+    width: 100%;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    background-color: #4c9aed;
+    border-radius: 3px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1)!important;
+}
+.navbar-toggler {
+    color: rgba(255,255,255, 1)!important;
+    border-color: rgba(255,255,255,.6)!important;
+}
+nav li a {
+    margin-top: 10px;  
+  }
+#first_nav_li {
+    margin-right: 20px;
+  background-color: rgba(0,0,0,0);
+}
+#gr4_logo {
+ max-width: 35px;
+}
+#greeting {
+    color: #fff;
+    font-size: 20px;
+    position: absolute; 
+    right: 120px;
+    top: 20px;
+  }
+#frontHeader {
+    margin-top: 50px;
+}
+
+/* FRONT  */
+.frontWrapper {
+    width: 100%;
+    position: fixed;
+    max-height: 100vh;
+}
+.img_wrapper {
+    width: 100%;
+    text-align: center;
+}
+#lgImg {
+    width: 40%;
+}
+#dueDate {
+    min-width: 200px!important;
+    padding: 4px;
+    margin-left: 20px;
+}
+/* on bills page */
+#reloadData {
+    position: fixed;
+    right: 100px;
+    top: 70px;
+}
+
+.print {
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    top: 60px;
+    right: 5px;
+}
+.print:hover {
+    cursor: pointer;
+}
+#form input {
+    max-width: 70px!important;
+} 
+#houseInput {
+    max-width: 50px!important;
+}
+.input{
+    max-width: 70px!important;
+}
+.wrapper {
+    padding: 4%;
+    padding-bottom: 0;
+    background-color:azure;
+    min-height: 100vh;
+}
+#table {
+    padding-bottom: 0;
+}
+/*  BUTTONS  */
+.genBtn {
+    min-width: 150px;
+    color: #fff;
+    text-align: center;
+    float: right;
+    margin-left: 15px;
+}
+.saveBtn, .exportBtn {
+    color: #fff;
+    text-align: center;
+}
+#submit {
+    position: fixed;
+    bottom: 0;
+    left:4%;
+    z-index: -1;
+}
+
+  /* BILL PAGE   */
+
+  .billWrapper {
+    font-size: 18px;
+    width: 80%;
+    margin:5% auto;
+  }
+  .bill, .fhBill {
+    width: 50%;
+    padding: 50px;
+    margin: auto;
+    margin-top: 40px;
+  }
+
+  #printBills {
+    position: fixed;
+    right: 100px;
+  }
+  .bill td, .fhBill td {
+    padding: 5px;
+    padding-left: 15%;
+    width: 50%;
+    border-bottom: solid 1px #ddd;
+  }
+  /* .billKey{
+    padding-left: 5px!important;
+  } */
+.fhBill tr:nth-last-child(3){
+    background-color: #ddd;
+    font-size: 22px;
+}
+.bill tr:nth-last-child(3){
+    background-color: #ddd;
+    font-weight: 600;
+    font-size: 22px;
+}
+.amount {
+    background-color: #ddd;
+    font-weight: 600;
+    font: 22px;
+}
+
+.account {
+    font-size: 17px;
+}
+.source {
+    font-size: 12px;
+    text-align: right;
+}
+
+
+
+/* TENANT PAGE */
+#tenantTable {
+    max-width: 75%;
+    margin: auto;
+}
+.tenantWrapper{
+    margin: 100px auto;
+}
+#tenantTable .email {
+    cursor: pointer;
+    position: relative;
+}
+.copyEmail {
+    font-size:20px; 
+    position: absolute;
+    right: 18px;
+}
+#editBox, #resetPwBox{    
+    z-index: 100;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 80vh;
+    width: 70%;
+    background-color: #333;
+    border-radius: 5px;
+    display: none;
+}
+#pw1_group, #pw2_group {
+    position: relative;
+}
+#eye1, #eye2 {
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+    top: 43px;
+}
+.box > .container {
+    height: 70vh;
+    width: 70%;
+    padding: 30px;
+    margin: 5vh auto;
+    background-color: #ccc; 
+    border: solid 1px #ddd;
+    border-radius: 5px;
+}
+#tenantForm > .form-group > input {
+    min-width: 100%;
+}
+#isNewTenant {
+    width: 20px;
+}
+#isNewTenantGroup{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#isNewTenantGroup{
+    max-width: 50%;
+}
+#x {
+    position: absolute;
+    top: 200px;
+    right: 50px;
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: monospace;
+}
+#x:hover{
+    cursor: pointer;
+}
+
+/* FH page */
+
+.stringInput {
+    min-width: 200px;
+}
+
+/* Archive */
+#archiveBox {
+    width: 95%;
+    margin: auto;
+    height: auto;
+    z-index: 100;
+    position: absolute;
+    top: 100px;
+    background-color: #333;
+    border-radius: 5px;
+    display: none;
+}
+#archiveBox .container {
+    width: 90%;
+    height: auto;
+    position: relative;
+}
+#archiveBox .container #x {   
+    right: 30px;
+    position: fixed;
+}
+.archive_h {
+    text-align: left;
+    background-color: #a5ccf6;
+    padding: 8px;
+    border-radius: 3px;
+}
+.list-group-item{
+    text-align: center;
+}
+.fileList {
+    display: none;
+}
+.flexWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.flexWrapper div {
+    width: 45%;
+}
+.fileList {
+    padding: 0;
+}
+/* Login */
+#login {
+    width: 50%;
+    padding: 50px;
+    margin: auto;
+}
+.forgotPW {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+
+/* Error page */
+.lgImgWrapper {
+    position: relative;
+}
+.error_img {
+    display: grid;
+    height: 100%;
+    margin-top: 1%;
+    z-index: -2;
+}
+.error_img img{
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+    z-index: -2;
+}
+.imgText {
+  position:absolute;
+  z-index: -1;
+  top: 100px;
+  opacity: .8;
+  width: 100%;
+  text-align: center;
+  background-color: lightblue;
+  font-size: 70px;
+  font-weight: 600;
+  -ms-transform: skewY(-10deg); /* IE 9 */
+  transform: skewY(-10deg)
+} 
+#lazy_cat {
+ margin-top: -100px;
+}
+@media print
+{
+    .wrapper {
+        padding: 0;
+    }
+    h4 {
+        font-size: 22px;
+        padding: 0;
+        color: red;
+    }
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    .bill{
+      page-break-after: always;
+      display: block;
+      margin: 200px auto;
+      margin-top: 100px;
+    }
+    .billWrapper {
+        margin: 200px auto;
+    }
+
+    .wrapperFH {
+        padding: 50px;
+        margin-top: 50px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    #login {
+        width: 70%;
+        padding: 30px;
+        margin: auto;
+    }
+} 
+@media only screen and (max-width: 993px) {
+    #greeting {
+      top: 55px;
+      right: 20px;
+    }
+} 
+@media only screen and (max-width: 768px) {
+    #login {
+        width: 90%;
+        padding: 20px;
+        margin: auto;
+    }
+}

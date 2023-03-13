@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Huse>
+  <Hus Nr="1">
+    <Fornavn>Rudy</Fornavn>
+    <Efternavn>Madsen</Efternavn>
+    <Email>rudy@bondebjerget.dk</Email>
+    <Brugernavn>rudy@bondebjerget.dk</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>1</Rolle>
+  </Hus>
+  <Hus Nr="3">
+    <Fornavn>Benny</Fornavn>
+    <Efternavn>Kling Osbæck</Efternavn>
+    <Email>benny@bondebjerget.dk</Email>
+    <Brugernavn>benny@bondebjerget.dk</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="5">
+    <Fornavn>Morten og Catrine</Fornavn>
+    <Efternavn>Hansen</Efternavn>
+    <Email>camoas@gmail.com</Email>
+    <Brugernavn>camoas@gmail.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="7">
+    <Fornavn>Charlotte</Fornavn>
+    <Efternavn>Vang</Efternavn>
+    <Email>charlottevang@yahoo.com</Email>
+    <Brugernavn>charlottevang@yahoo.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="9">
+    <Fornavn>Maria</Fornavn>
+    <Efternavn>Greve</Efternavn>
+    <Email>mariagreve87@gmail.com</Email>
+    <Brugernavn>mariagreve87@gmail.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="11">
+    <Fornavn>Aileen</Fornavn>
+    <Efternavn>Westphal</Efternavn>
+    <Email>aileenmw@gmail.com</Email>
+    <Brugernavn>aileenmw</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="13">
+    <Fornavn>Jens og Anita</Fornavn>
+    <Efternavn>Kofoed / Lund</Efternavn>
+    <Email>anitalundhg@gmail.com</Email>
+    <Brugernavn>anitalundhg@gmail.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="15">
+    <Fornavn>Sofie og Jens</Fornavn>
+    <Efternavn>Jepsen</Efternavn>
+    <Email>jepsenjens@hotmail.com</Email>
+    <Brugernavn>jepsenjens@hotmail.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="17">
+    <Fornavn>Torsten</Fornavn>
+    <Efternavn>Ringgaard</Efternavn>
+    <Email></Email>
+    <Brugernavn></Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="19">
+    <Fornavn>Tina</Fornavn>
+    <Efternavn>Jepsen</Efternavn>
+    <Email>tina@jepsen.at</Email>
+    <Brugernavn>tina@jepsen.at</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="21">
+    <Fornavn>Pernille</Fornavn>
+    <Efternavn>Esborg</Efternavn>
+    <Email>pernille.esborg@gmail.com</Email>
+    <Brugernavn>pernille.esborg@gmail.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="23">
+    <Fornavn>Helle</Fornavn>
+    <Efternavn>Koch-Christensen</Efternavn>
+    <Email>hk-c@hotmail.com</Email>
+    <Brugernavn>hk-c@hotmail.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="25">
+    <Fornavn>Anne-Mette</Fornavn>
+    <Efternavn>Haubro Hestkjær</Efternavn>
+    <Email>annemette.h.hestkjaer@gmail.com</Email>
+    <Brugernavn>annemette.h.hestkjaer@gmail.com</Brugernavn>
+    <Password>1234</Password>
+  </Hus>
+  <Hus Nr="27">
+    <Fornavn>Katia og Frederik</Fornavn>
+    <Efternavn>Damsgaard Højsager</Efternavn>
+    <Email>frederik.hoejsager@gmail.com</Email>
+    <Brugernavn>frederik.hoejsager@gmail.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="29">
+    <Fornavn>Henriette</Fornavn>
+    <Efternavn>Iversen Andersen</Efternavn>
+    <Email></Email>
+    <Brugernavn></Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="31">
+    <Fornavn>Maria</Fornavn>
+    <Efternavn>Mejlgaard</Efternavn>
+    <Email></Email>
+    <Brugernavn></Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="33">
+    <Fornavn>Anne-Grete</Fornavn>
+    <Efternavn>Borger Pedersen</Efternavn>
+    <Email></Email>
+    <Brugernavn></Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="35">
+    <Fornavn>Lars Erik</Fornavn>
+    <Efternavn>Hansen</Efternavn>
+    <Email>lars.erik.h@hotmail.com</Email>
+    <Brugernavn>lars.erik.h@hotmail.com</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="37">
+    <Fornavn>Rie</Fornavn>
+    <Efternavn>Vinterlys</Efternavn>
+    <Email>marie_jo@email.dk</Email>
+    <Brugernavn>marie_jo@email.dk</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="39">
+    <Fornavn>Gertrud</Fornavn>
+    <Efternavn>Breum Pedersen</Efternavn>
+    <Email>gertrud@bondebjerget.dk</Email>
+    <Brugernavn>gertrud@bondebjerget.dk</Brugernavn>
+    <Password>1234</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+</Huse>

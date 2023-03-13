@@ -1,0 +1,16 @@
+{
+    "name": "dompdf/html_to_pdf",
+    "description": "Converts html to pdf file",
+    "type": "project",
+    "license": "3.0",
+    "authors": [
+        {
+            "name": "Aileen",
+            "email": "aileenmw@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}

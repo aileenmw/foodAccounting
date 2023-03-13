@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Huse>
+  <Hus Nr="1">
+    <Fornavn>Peder</Fornavn>
+    <Efternavn>Madsen</Efternavn>
+    <Email>peder@example.dk</Email>
+    <Brugernavn>rudy@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="3">
+    <Fornavn>Benny</Fornavn>
+    <Efternavn>Richardsen</Efternavn>
+    <Email>benny@example.dk</Email>
+    <Brugernavn>benny@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="5">
+    <Fornavn>Morten</Fornavn>
+    <Efternavn>Eskilsen</Efternavn>
+    <Email>morten@example.dk</Email>
+    <Brugernavn>morten@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>1</Rolle>
+  </Hus>
+  <Hus Nr="7">
+    <Fornavn>Charlotte</Fornavn>
+    <Efternavn>Vang</Efternavn>
+    <Email>charlotte@example.dk</Email>
+    <Brugernavn>charlotte@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="9">
+    <Fornavn>Maria</Fornavn>
+    <Efternavn>Mortensen</Efternavn>
+    <Email>maria@example.dk</Email>
+    <Brugernavn>maria@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="11">
+    <Fornavn>Aileen</Fornavn>
+    <Efternavn>Mason</Efternavn>
+    <Email>aileen@example.dk</Email>
+    <Brugernavn>aileenmw</Brugernavn>
+    <Password>d58fa3687526ccd12a48db86d907c899</Password>
+    <Rolle>1</Rolle>
+  </Hus>
+  <Hus Nr="13">
+    <Fornavn>Jens</Fornavn>
+    <Efternavn>Kofoed</Efternavn>
+    <Email>kofoed@example.dk</Email>
+    <Brugernavn>kofoed@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="15">
+    <Fornavn>Ella </Fornavn>
+    <Efternavn>Jepsen</Efternavn>
+    <Email>jepsen@example.dk</Email>
+    <Brugernavn>jepsen@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="17">
+    <Fornavn>Torsten</Fornavn>
+    <Efternavn>Ring</Efternavn>
+    <Email>torsten@example.dk</Email>
+    <Brugernavn/>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="19">
+    <Fornavn>Tine</Fornavn>
+    <Efternavn>Jepsen</Efternavn>
+    <Email>tine@example.dk</Email>
+    <Brugernavn>tina@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="21">
+    <Fornavn>Pernille</Fornavn>
+    <Efternavn>Borger</Efternavn>
+    <Email>pernille@example.dk</Email>
+    <Brugernavn>pernille@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="23">
+    <Fornavn>Helle</Fornavn>
+    <Efternavn>Christensen</Efternavn>
+    <Email>helle@example.dk</Email>
+    <Brugernavn>helle@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="25">
+    <Fornavn>Anne</Fornavn>
+    <Efternavn>Hansen</Efternavn>
+    <Email>anne@example.dk</Email>
+    <Brugernavn>anne@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+  </Hus>
+  <Hus Nr="27">
+    <Fornavn>Frederik</Fornavn>
+    <Efternavn>Poulsen</Efternavn>
+    <Email>frederik@example.dk</Email>
+    <Brugernavn>frederik@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="29">
+    <Fornavn>Henry</Fornavn>
+    <Efternavn>Andersen</Efternavn>
+    <Email>henry@example.dk</Email>
+    <Brugernavn>henry@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="31">
+    <Fornavn>Marie</Fornavn>
+    <Efternavn>Mejer</Efternavn>
+    <Email>mejer@example.dk</Email>
+    <Brugernavn>mejer@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="33">
+    <Fornavn>Grete</Fornavn>
+    <Efternavn>Pedersen</Efternavn>
+    <Email>grete@example.dk</Email>
+    <Brugernavn>grete@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="35">
+    <Fornavn>Erik</Fornavn>
+    <Efternavn>Hansen</Efternavn>
+    <Email>erik@example.dk</Email>
+    <Brugernavn>erik@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="37">
+    <Fornavn>Rie</Fornavn>
+    <Efternavn>Vinter</Efternavn>
+    <Email>rie@example.dk</Email>
+    <Brugernavn>rie@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+  <Hus Nr="39">
+    <Fornavn>Gertrud</Fornavn>
+    <Efternavn>Berndtsen</Efternavn>
+    <Email>gertrud@example.dk</Email>
+    <Brugernavn>gertrud@example.dk</Brugernavn>
+    <Password>81dc9bdb52d04dc20036dbd8313ed055</Password>
+    <Rolle>2</Rolle>
+  </Hus>
+</Huse>
