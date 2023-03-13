@@ -12,15 +12,14 @@ require  __DIR__ . '../../vendor/autoload.php';
 $mail = new PHPMailer(true);
 
 try {
-    //Server settings
-    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
-    $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'websmtp.simply.com';                     //Set the SMTP server to send through
-    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'mail@amw.nu';                     //SMTP username
-    $mail->Password   = '2Paccap2';                               //SMTP password
-    $mail->SMTPSecure = 'STARTTLS'; // PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
-    $mail->Port       = 587;   //465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+    // $mail->SMTPDebug = SMTP::DEBUG_SERVER;            //Enable verbose debug output
+    $mail->isSMTP();                                  //Send using SMTP
+    $mail->Host       = $GLOBALS['mailHost'];         //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                         //Enable SMTP authentication
+    $mail->Username   = $GLOBALS['smtpUser'];         //SMTP username
+    $mail->Password   = $GLOBALS['smtpPw'];           //SMTP password
+    $mail->SMTPSecure = 'STARTTLS';                   //Enable implicit TLS encryption
+    $mail->Port       = $GLOBALS['smtpPort'] ;        //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
     $mail->setFrom('mail@amw.nu', 'Madkassen');
