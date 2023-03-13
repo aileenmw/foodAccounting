@@ -3,7 +3,7 @@
   <Hus Nr="1" Betalingsdato="">
     <Navn>Peder</Navn>
     <Efternavn>Madsen</Efternavn>
-    <Udestående>167</Udestående>
+    <Udestående>207</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -11,12 +11,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>207</Regning>
+    <Regning>247</Regning>
   </Hus>
   <Hus Nr="3" Betalingsdato="">
     <Navn>Benny</Navn>
     <Efternavn>Richardsen</Efternavn>
-    <Udestående>159</Udestående>
+    <Udestående>199</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -24,12 +24,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>199</Regning>
+    <Regning>239</Regning>
   </Hus>
   <Hus Nr="5" Betalingsdato="">
     <Navn>Morten</Navn>
     <Efternavn>Eskilsen</Efternavn>
-    <Udestående>110</Udestående>
+    <Udestående>150</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -37,12 +37,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>150</Regning>
+    <Regning>190</Regning>
   </Hus>
   <Hus Nr="7" Betalingsdato="">
     <Navn>Charlotte</Navn>
     <Efternavn>Vang</Efternavn>
-    <Udestående>120</Udestående>
+    <Udestående>160</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -50,12 +50,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>160</Regning>
+    <Regning>200</Regning>
   </Hus>
   <Hus Nr="9" Betalingsdato="">
     <Navn>Maria</Navn>
     <Efternavn>Mortensen</Efternavn>
-    <Udestående>120</Udestående>
+    <Udestående>160</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -63,12 +63,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>160</Regning>
+    <Regning>200</Regning>
   </Hus>
   <Hus Nr="11" Betalingsdato="">
     <Navn>Aileen</Navn>
     <Efternavn>Mason</Efternavn>
-    <Udestående>80</Udestående>
+    <Udestående>120</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -76,12 +76,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>120</Regning>
+    <Regning>160</Regning>
   </Hus>
   <Hus Nr="13" Betalingsdato="">
     <Navn>Jens</Navn>
     <Efternavn>Kofoed</Efternavn>
-    <Udestående>120.69</Udestående>
+    <Udestående>160.69</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -89,12 +89,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>160.69</Regning>
+    <Regning>200.69</Regning>
   </Hus>
   <Hus Nr="15" Betalingsdato="">
     <Navn>Ella </Navn>
     <Efternavn>Jepsen</Efternavn>
-    <Udestående>120.31</Udestående>
+    <Udestående>160.31</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -102,12 +102,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>160.31</Regning>
+    <Regning>200.31</Regning>
   </Hus>
   <Hus Nr="17" Betalingsdato="">
     <Navn>Torsten</Navn>
     <Efternavn>Ring</Efternavn>
-    <Udestående>145</Udestående>
+    <Udestående>185</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -115,12 +115,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>185</Regning>
+    <Regning>225</Regning>
   </Hus>
   <Hus Nr="19" Betalingsdato="">
     <Navn>Tina</Navn>
     <Efternavn>Jepsen</Efternavn>
-    <Udestående>121</Udestående>
+    <Udestående>161</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -128,12 +128,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>161</Regning>
+    <Regning>201</Regning>
   </Hus>
   <Hus Nr="21" Betalingsdato="">
     <Navn>Pernille</Navn>
     <Efternavn>Borger</Efternavn>
-    <Udestående>120</Udestående>
+    <Udestående>160</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -141,12 +141,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>160</Regning>
+    <Regning>200</Regning>
   </Hus>
   <Hus Nr="23" Betalingsdato="">
     <Navn>Helle</Navn>
     <Efternavn>Christensen</Efternavn>
-    <Udestående>83</Udestående>
+    <Udestående>123</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -154,12 +154,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>123</Regning>
+    <Regning>163</Regning>
   </Hus>
   <Hus Nr="25" Betalingsdato="">
     <Navn>Anne</Navn>
     <Efternavn>Hansen</Efternavn>
-    <Udestående>120</Udestående>
+    <Udestående>160</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -167,12 +167,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>160</Regning>
+    <Regning>200</Regning>
   </Hus>
   <Hus Nr="27" Betalingsdato="">
     <Navn>Frederik</Navn>
     <Efternavn>Poulsen</Efternavn>
-    <Udestående>225.45</Udestående>
+    <Udestående>265.45</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -180,24 +180,11 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>265.45</Regning>
+    <Regning>305.45</Regning>
   </Hus>
   <Hus Nr="29" Betalingsdato="">
     <Navn>Henry</Navn>
     <Efternavn>Andersen</Efternavn>
-    <Udestående>80</Udestående>
-    <Indbetalt>0</Indbetalt>
-    <Saldo>0</Saldo>
-    <Voksne>0</Voksne>
-    <Pubber>0</Pubber>
-    <Børn>0</Børn>
-    <Spist>0</Spist>
-    <Udlæg>0</Udlæg>
-    <Regning>120</Regning>
-  </Hus>
-  <Hus Nr="31" Betalingsdato="">
-    <Navn>Marie</Navn>
-    <Efternavn>Mejer</Efternavn>
     <Udestående>120</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
@@ -208,10 +195,10 @@
     <Udlæg>0</Udlæg>
     <Regning>160</Regning>
   </Hus>
-  <Hus Nr="33" Betalingsdato="">
-    <Navn>Grete</Navn>
-    <Efternavn>Pedersen</Efternavn>
-    <Udestående>121</Udestående>
+  <Hus Nr="31" Betalingsdato="">
+    <Navn>Marie</Navn>
+    <Efternavn>Mejer</Efternavn>
+    <Udestående>160</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -219,12 +206,25 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>161</Regning>
+    <Regning>200</Regning>
+  </Hus>
+  <Hus Nr="33" Betalingsdato="">
+    <Navn>Grete</Navn>
+    <Efternavn>Pedersen</Efternavn>
+    <Udestående>161</Udestående>
+    <Indbetalt>0</Indbetalt>
+    <Saldo>0</Saldo>
+    <Voksne>0</Voksne>
+    <Pubber>0</Pubber>
+    <Børn>0</Børn>
+    <Spist>0</Spist>
+    <Udlæg>0</Udlæg>
+    <Regning>201</Regning>
   </Hus>
   <Hus Nr="35" Betalingsdato="">
     <Navn>Erik</Navn>
     <Efternavn>Hansen</Efternavn>
-    <Udestående>130</Udestående>
+    <Udestående>170</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -232,12 +232,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>170</Regning>
+    <Regning>210</Regning>
   </Hus>
   <Hus Nr="37" Betalingsdato="">
     <Navn>Rie</Navn>
     <Efternavn>Vintergård</Efternavn>
-    <Udestående>121</Udestående>
+    <Udestående>161</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -245,12 +245,12 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>161</Regning>
+    <Regning>201</Regning>
   </Hus>
   <Hus Nr="39" Betalingsdato="">
     <Navn>Gertrud</Navn>
     <Efternavn>Pedersen</Efternavn>
-    <Udestående>122.15</Udestående>
+    <Udestående>162.15</Udestående>
     <Indbetalt>0</Indbetalt>
     <Saldo>0</Saldo>
     <Voksne>0</Voksne>
@@ -258,6 +258,6 @@
     <Børn>0</Børn>
     <Spist>0</Spist>
     <Udlæg>0</Udlæg>
-    <Regning>162.15</Regning>
+    <Regning>202.15</Regning>
   </Hus>
 </Regninger>

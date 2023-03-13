@@ -50,7 +50,7 @@
     $table .= "<div class='billWrapper'>";
     $table .= "<br><br><br><br><h4 style='text-align: center;'>Madregning for hus nr. " .  $house['Nr'] . "</h4>";
     $table .= "<h6 style='text-align: center;'>Udskrevet den " . date("d-m-Y") . "</h6><br>";
-    $table .= "<table class='table' style='width: 60%; margin: 0 15% 0 25%; font-size: 15px;'>";
+    $table .= "<table class='table' style='width: 60%; margin: 0 15% 0 25%; font-size: 15px; font-family: verdana;'>";
     foreach ($house as $key=>$val) {
       $val = $val == "" || $val == null ? 0 : $val;
       if( $key == "Spist") {
